@@ -1,0 +1,6684 @@
+fileFormatVersion: 2
+guid: 4c202df5746927245b770f91873f81fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6074434969835960605
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_0
+  - first:
+      213: -4858988102631752841
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_1
+  - first:
+      213: -2101938525513300982
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_2
+  - first:
+      213: -1655897362382732969
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_3
+  - first:
+      213: -868943579570432996
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_4
+  - first:
+      213: 6343615115273333556
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_5
+  - first:
+      213: 7029062912318129436
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_6
+  - first:
+      213: -937734765830931009
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_7
+  - first:
+      213: 2569145596579552942
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_8
+  - first:
+      213: -8289195806314132875
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_9
+  - first:
+      213: -5845791669018088117
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_10
+  - first:
+      213: 1569446122301191276
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_11
+  - first:
+      213: -5875630296967051741
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_12
+  - first:
+      213: 6894587008848590104
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_13
+  - first:
+      213: -3103914461794042037
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_14
+  - first:
+      213: -6784617629037133019
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_15
+  - first:
+      213: 6495715718352122956
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_16
+  - first:
+      213: 9219851377058304676
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_17
+  - first:
+      213: -3759720220282107247
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_18
+  - first:
+      213: -9192725617495428416
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_19
+  - first:
+      213: -4257759052428941082
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_20
+  - first:
+      213: 8594603068600596346
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_21
+  - first:
+      213: 2459986584397277659
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_22
+  - first:
+      213: 3905474339015739889
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_23
+  - first:
+      213: -6653149457767259119
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_24
+  - first:
+      213: 6205260032471056824
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_25
+  - first:
+      213: -428142180364602779
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_26
+  - first:
+      213: 6198639986610717273
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_27
+  - first:
+      213: 2940885858530692907
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_28
+  - first:
+      213: -1636921657104815384
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_29
+  - first:
+      213: 1026087972030561079
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_30
+  - first:
+      213: -1513907025398810353
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_31
+  - first:
+      213: 5945950859009705073
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_32
+  - first:
+      213: 2317730074311748699
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_33
+  - first:
+      213: 8809018061364186970
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_34
+  - first:
+      213: 4736880644458587477
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_35
+  - first:
+      213: 8473407486458275987
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_36
+  - first:
+      213: -3542146135471995802
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_37
+  - first:
+      213: 7465239767310738081
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_38
+  - first:
+      213: -5103779902008761226
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_39
+  - first:
+      213: 1726376489744867603
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_40
+  - first:
+      213: 6085094380636052568
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_41
+  - first:
+      213: 2584813935716608795
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_42
+  - first:
+      213: 6524909040171045566
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_43
+  - first:
+      213: -2883964944018183165
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_44
+  - first:
+      213: 4520116488510106033
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_45
+  - first:
+      213: -4194236542042517443
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_46
+  - first:
+      213: -2838798001261639179
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_47
+  - first:
+      213: 2788773118473952077
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_48
+  - first:
+      213: 1094993931248584231
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_49
+  - first:
+      213: -6910207304983215253
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_50
+  - first:
+      213: -1148839265847801246
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_51
+  - first:
+      213: -8925090254654865790
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_52
+  - first:
+      213: -5058801625271837019
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_53
+  - first:
+      213: 3938067656287784287
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_54
+  - first:
+      213: 3010175344615131368
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_55
+  - first:
+      213: 5532477274571670215
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_56
+  - first:
+      213: -8925012861590698186
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_57
+  - first:
+      213: 1730914411679885163
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_58
+  - first:
+      213: -583861190674529131
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_59
+  - first:
+      213: 6607152881302540635
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_60
+  - first:
+      213: -8641589084956217628
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_61
+  - first:
+      213: -5406448196042484907
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_62
+  - first:
+      213: 880374804038326225
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_63
+  - first:
+      213: -5252734486397413313
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_64
+  - first:
+      213: -3132277210411050627
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_65
+  - first:
+      213: 5153926984370574613
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_66
+  - first:
+      213: -3588437147128435152
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_67
+  - first:
+      213: -5412130604705379885
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_68
+  - first:
+      213: 8685325732100122480
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_69
+  - first:
+      213: 202257615926266901
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_70
+  - first:
+      213: -3875149343727909681
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_71
+  - first:
+      213: -5656103312077423155
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_72
+  - first:
+      213: 868299368255761147
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_73
+  - first:
+      213: 5856269242623590222
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_74
+  - first:
+      213: -8804156699517274528
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_75
+  - first:
+      213: 3313404326624861311
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_76
+  - first:
+      213: 617028340576250225
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_77
+  - first:
+      213: 5131053776221704171
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_78
+  - first:
+      213: 8139132906155127986
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_79
+  - first:
+      213: -5906857973775616652
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_80
+  - first:
+      213: 1926949001161748560
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_81
+  - first:
+      213: 2419894849106569974
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_82
+  - first:
+      213: -2822278225357644288
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_83
+  - first:
+      213: -4666112709711571050
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_84
+  - first:
+      213: 9173682839064498801
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_85
+  - first:
+      213: -8314086504033360918
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_86
+  - first:
+      213: -2132754635127489339
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_87
+  - first:
+      213: 1494971282012475933
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_88
+  - first:
+      213: 6017183705038996203
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_89
+  - first:
+      213: 584514396255455939
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_90
+  - first:
+      213: -5032448345340859097
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_91
+  - first:
+      213: -5174302315165129097
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_92
+  - first:
+      213: -7185263076180693185
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_93
+  - first:
+      213: 1818044077880758110
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_94
+  - first:
+      213: -916614062263841529
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_95
+  - first:
+      213: 7281639143575542307
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_96
+  - first:
+      213: 5116050855151433770
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_97
+  - first:
+      213: 7538735113299301189
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_98
+  - first:
+      213: 3535462328330282932
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_99
+  - first:
+      213: 755091184841174317
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_100
+  - first:
+      213: -5914737699146917749
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_101
+  - first:
+      213: -925922323322169692
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_102
+  - first:
+      213: -60784412843011968
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_103
+  - first:
+      213: 7260491456203576877
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_104
+  - first:
+      213: 5479701512206933962
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_105
+  - first:
+      213: 2791151984824214677
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_107
+  - first:
+      213: -3391372282153196432
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_108
+  - first:
+      213: -5878654373348851021
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_109
+  - first:
+      213: 656007220778749962
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_113
+  - first:
+      213: -6759605748373076184
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_114
+  - first:
+      213: -3827144660226374294
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_115
+  - first:
+      213: 8080150902509892861
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_116
+  - first:
+      213: 3967968998081535833
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_117
+  - first:
+      213: 7466128070036382222
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_118
+  - first:
+      213: -445419630552502131
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_119
+  - first:
+      213: -8693242499105650876
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_120
+  - first:
+      213: -5699024351832599447
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_121
+  - first:
+      213: 8751068566086164532
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_122
+  - first:
+      213: -5552775630233915238
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_123
+  - first:
+      213: 7268360306948845841
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_124
+  - first:
+      213: -2468614336410710485
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_125
+  - first:
+      213: -2345402120866957942
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_126
+  - first:
+      213: -7529551158251781975
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_127
+  - first:
+      213: 8832233522272678041
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_128
+  - first:
+      213: 2379677843236711218
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_129
+  - first:
+      213: 36093987958301783
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_130
+  - first:
+      213: -156478716937780624
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_131
+  - first:
+      213: -4598662340085058597
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_132
+  - first:
+      213: 9142985654100581952
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_133
+  - first:
+      213: 993641015290981271
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_134
+  - first:
+      213: -7464831958527423418
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_135
+  - first:
+      213: -8647649102076622311
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_136
+  - first:
+      213: -1521223555910772729
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_137
+  - first:
+      213: -9138095729252650091
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_138
+  - first:
+      213: 2028436687900445571
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_139
+  - first:
+      213: 2588036076138590494
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_140
+  - first:
+      213: -4307170541797145391
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_141
+  - first:
+      213: 3231788471052575056
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_142
+  - first:
+      213: 3619525165867935923
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_143
+  - first:
+      213: 7623980370134396739
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_144
+  - first:
+      213: -5279030518233467095
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_145
+  - first:
+      213: 1723602752482190853
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_146
+  - first:
+      213: -7800414359539963543
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_147
+  - first:
+      213: 5010595197950226941
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_148
+  - first:
+      213: 8520714426360327433
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_152
+  - first:
+      213: 1132232107567865708
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_153
+  - first:
+      213: 6719013941562496713
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_154
+  - first:
+      213: -6961179586407865418
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_155
+  - first:
+      213: -7828394442890728307
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_156
+  - first:
+      213: 211265399876084776
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_157
+  - first:
+      213: -5477681016626122430
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_158
+  - first:
+      213: -7624125818597273601
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_159
+  - first:
+      213: -5189194983192495316
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_160
+  - first:
+      213: -2602108152008788275
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_161
+  - first:
+      213: 7069450457312628079
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_162
+  - first:
+      213: -6989076526864519102
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_163
+  - first:
+      213: -5429221785530532145
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_164
+  - first:
+      213: -7272001474569093557
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_165
+  - first:
+      213: -8769574351086543016
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_166
+  - first:
+      213: -7699616701360594168
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_167
+  - first:
+      213: 2465108337186989580
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_168
+  - first:
+      213: -1646872977239615239
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_169
+  - first:
+      213: -2754322014754748287
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_170
+  - first:
+      213: 8455209756666190122
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_171
+  - first:
+      213: 8302643160580696567
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_172
+  - first:
+      213: -9105626947922221949
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_173
+  - first:
+      213: -8104305319556314971
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_174
+  - first:
+      213: 5814839761349244570
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_175
+  - first:
+      213: -8547247952598187280
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_176
+  - first:
+      213: 6995373644979889611
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_177
+  - first:
+      213: -8051876209700563709
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_178
+  - first:
+      213: 6432036388941878659
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_179
+  - first:
+      213: 2776192072725352926
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_180
+  - first:
+      213: 1492203151508190042
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_181
+  - first:
+      213: 6979076609570107211
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_182
+  - first:
+      213: -5574091460013193686
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_183
+  - first:
+      213: 1242610237062668792
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_184
+  - first:
+      213: 4837980329334703978
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_185
+  - first:
+      213: 4029072838637845665
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_186
+  - first:
+      213: -6600984954176256470
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_187
+  - first:
+      213: -8474245966454424025
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_188
+  - first:
+      213: 7322504474077237320
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_189
+  - first:
+      213: -5982747594753175219
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_190
+  - first:
+      213: 959865671266913308
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_191
+  - first:
+      213: -8588119955307463736
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_192
+  - first:
+      213: 4358267802587783083
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_193
+  - first:
+      213: 6892619420467306677
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_194
+  - first:
+      213: -6297415372990514006
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_195
+  - first:
+      213: -6780673355518946605
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_196
+  - first:
+      213: -8223867300102178766
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_197
+  - first:
+      213: -3756436501713390925
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_198
+  - first:
+      213: -8230171879892150099
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_199
+  - first:
+      213: -9007981914811738766
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_200
+  - first:
+      213: -4179696927393293221
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_201
+  - first:
+      213: -8016694155584952648
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_202
+  - first:
+      213: -3393315496634935434
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_203
+  - first:
+      213: -3471887256910718138
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_204
+  - first:
+      213: -3091109644472299180
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_205
+  - first:
+      213: 359954665720503314
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_206
+  - first:
+      213: 8691984306641785545
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_207
+  - first:
+      213: 6264983294065752162
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_208
+  - first:
+      213: -2877001463915686290
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_209
+  - first:
+      213: -2751703829218337777
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_210
+  - first:
+      213: 129849665586957537
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_211
+  - first:
+      213: 5514457321037016935
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_212
+  - first:
+      213: -2193979017723622410
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_213
+  - first:
+      213: 6967786731073452619
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_214
+  - first:
+      213: 697363129037282167
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_215
+  - first:
+      213: 5333015608266348720
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_216
+  - first:
+      213: 382889411679224462
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_217
+  - first:
+      213: 8031939506158160986
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_218
+  - first:
+      213: -3975723047216628689
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_219
+  - first:
+      213: 4558128210660247969
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_220
+  - first:
+      213: 6468492670431540112
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_221
+  - first:
+      213: -9093859285704343525
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_222
+  - first:
+      213: 119497031965556008
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_223
+  - first:
+      213: 8217308417570848696
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_224
+  - first:
+      213: -6773600933730376962
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_225
+  - first:
+      213: -3750862373637848424
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_226
+  - first:
+      213: 2272867850747372644
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_227
+  - first:
+      213: -3662481167785432931
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_228
+  - first:
+      213: -5696520184912091717
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_229
+  - first:
+      213: -6091447521881453925
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_230
+  - first:
+      213: -6046481386803544087
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_231
+  - first:
+      213: -1408020438534769924
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_232
+  - first:
+      213: -5978438736698483966
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_233
+  - first:
+      213: -7638638529708327407
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_234
+  - first:
+      213: -460087079346519330
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_235
+  - first:
+      213: -474057500707427906
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_236
+  - first:
+      213: -7007626464372411347
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_237
+  - first:
+      213: -462423689325898380
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_238
+  - first:
+      213: 942090521548580631
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_239
+  - first:
+      213: -3588202279166411695
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_240
+  - first:
+      213: 660370567465181060
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_241
+  - first:
+      213: 7592779394571792228
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_242
+  - first:
+      213: -8232178789405120630
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_243
+  - first:
+      213: 5235008587078156130
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_244
+  - first:
+      213: 7728343162677849978
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_245
+  - first:
+      213: 6704361494208984831
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_246
+  - first:
+      213: 7847547110602452551
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_247
+  - first:
+      213: 1263921822883313351
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_248
+  - first:
+      213: -7107687802134305447
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_249
+  - first:
+      213: 7673117581578104476
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_250
+  - first:
+      213: 2066014133857476345
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_251
+  - first:
+      213: -8011458872722905339
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_252
+  - first:
+      213: 52313687661883158
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_253
+  - first:
+      213: 5618753941348156386
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_254
+  - first:
+      213: 3171538570693332165
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_255
+  - first:
+      213: -2666134027640795502
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_256
+  - first:
+      213: 3299007870923684598
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_257
+  - first:
+      213: 8397578199602985527
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_258
+  - first:
+      213: -7710974968950543905
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_259
+  - first:
+      213: -4083509354032057242
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_260
+  - first:
+      213: -4403379503700525931
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_261
+  - first:
+      213: -7437503060194557186
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_262
+  - first:
+      213: -1100542696500278042
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_263
+  - first:
+      213: 5259991028268569342
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_264
+  - first:
+      213: 7107781457591666947
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_265
+  - first:
+      213: 6526641287706318546
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_266
+  - first:
+      213: 2892423226187645622
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_267
+  - first:
+      213: -3472091086313912629
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_268
+  - first:
+      213: 2221458249879459805
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_269
+  - first:
+      213: -6059453369050706840
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_270
+  - first:
+      213: 7300541150158099794
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_271
+  - first:
+      213: -3331887371350369747
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_272
+  - first:
+      213: -4037797077627765636
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_273
+  - first:
+      213: -9202712752785588505
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_274
+  - first:
+      213: 7572386253421461295
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_275
+  - first:
+      213: 328035713621241558
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_276
+  - first:
+      213: 2935948223831732948
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_277
+  - first:
+      213: 2795463776184241494
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_278
+  - first:
+      213: -5060222903225441657
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_279
+  - first:
+      213: 3437069470252254383
+    second: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_280
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e687b3249543bba0800000000000000
+      internalID: -6074434969835960605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf8ce8018619cb0800000000000000
+      internalID: -4858988102631752841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04421f2c0a64d2e0800000000000000
+      internalID: -2101938525513300982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751cbaa4f121509e0800000000000000
+      internalID: -1655897362382732969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1419d11b64e0f3f0800000000000000
+      internalID: -868943579570432996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6aa1665c090850800000000000000
+      internalID: 6343615115273333556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1548982a7f3c8160800000000000000
+      internalID: 7029062912318129436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfc15e23f7cf2f0800000000000000
+      internalID: -937734765830931009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1264ee4077a320800000000000000
+      internalID: 2569145596579552942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0dfa055cd6fc80800000000000000
+      internalID: -8289195806314132875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2d3903739fdea0800000000000000
+      internalID: -5845791669018088117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6470e5deeac7c510800000000000000
+      internalID: 1569446122301191276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32681c51061957ea0800000000000000
+      internalID: -5875630296967051741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815717ffa5e7eaf50800000000000000
+      internalID: 6894587008848590104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f71930e3eace4d0800000000000000
+      internalID: -3103914461794042037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523836c763238d1a0800000000000000
+      internalID: -6784617629037133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bc42b70b652a50800000000000000
+      internalID: 6495715718352122956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d4738afd73ff70800000000000000
+      internalID: 9219851377058304676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a4b37216ac2dbc0800000000000000
+      internalID: -3759720220282107247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23d8b81c0ec6080800000000000000
+      internalID: -9192725617495428416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8e4cc43b669e4c0800000000000000
+      internalID: -4257759052428941082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bb6964f9264770800000000000000
+      internalID: 8594603068600596346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e933d3c0a32220800000000000000
+      internalID: 2459986584397277659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9cf602838033630800000000000000
+      internalID: 3905474339015739889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114233c61d34ba3a0800000000000000
+      internalID: -6653149457767259119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cd566f138d1650800000000000000
+      internalID: 6205260032471056824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b10294feee0af0800000000000000
+      internalID: -428142180364602779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952c67cd93ef50650800000000000000
+      internalID: 6198639986610717273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f01ba5b1020d820800000000000000
+      internalID: 2940885858530692907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaaf17fc6c7849e0800000000000000
+      internalID: -1636921657104815384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bbe29f2956d3e00800000000000000
+      internalID: 1026087972030561079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b228d4958dfae0800000000000000
+      internalID: -1513907025398810353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c333adc2448250800000000000000
+      internalID: 5945950859009705073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6794093b3a2020800000000000000
+      internalID: 2317730074311748699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fcc9f214bef3a70800000000000000
+      internalID: 8809018061364186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a06c59d7ccb140800000000000000
+      internalID: 4736880644458587477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982b730737979570800000000000000
+      internalID: 8473407486458275987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644bac5bd4c7dec0800000000000000
+      internalID: -3542146135471995802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22dad040cd99760800000000000000
+      internalID: 7465239767310738081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_39
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6746df8583bbb29b0800000000000000
+      internalID: -5103779902008761226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31124db454255f710800000000000000
+      internalID: 1726376489744867603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_41
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c99865919927450800000000000000
+      internalID: 6085094380636052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2ed0649a1fd320800000000000000
+      internalID: 2584813935716608795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_43
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2512b93322d8a50800000000000000
+      internalID: 6524909040171045566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ced1fc9291af7d0800000000000000
+      internalID: -2883964944018183165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9e7096ffdaabe30800000000000000
+      internalID: 4520116488510106033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d79746141bc5c0800000000000000
+      internalID: -4194236542042517443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f906b922409a98d0800000000000000
+      internalID: -2838798001261639179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5ccd2066b3b620800000000000000
+      internalID: 2788773118473952077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c74fcd23323f00800000000000000
+      internalID: 1094993931248584231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638a2661130a10a0800000000000000
+      internalID: -6910207304983215253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0f1746c08e00f0800000000000000
+      internalID: -1148839265847801246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28efef653b5b32480800000000000000
+      internalID: -8925090254654865790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed08879b68bc9b0800000000000000
+      internalID: -5058801625271837019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0d7a2ba3d6a630800000000000000
+      internalID: 3938067656287784287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88c6ff68a46c920800000000000000
+      internalID: 3010175344615131368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c204c6d4ce47cc40800000000000000
+      internalID: 5532477274571670215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6370811d61cf32480800000000000000
+      internalID: -8925012861590698186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a8c49c71750810800000000000000
+      internalID: 1730914411679885163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59445bb2755b5e7f0800000000000000
+      internalID: -583861190674529131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519cb21a8251bb50800000000000000
+      internalID: 6607152881302540635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_61
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeaa482388e21880800000000000000
+      internalID: -8641589084956217628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_62
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5531652a20078f4b0800000000000000
+      internalID: -5406448196042484907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_63
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d798e74838b73c00800000000000000
+      internalID: 880374804038326225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3896d690d98a17b0800000000000000
+      internalID: -5252734486397413313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_65
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 816
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d56ff87ae784d0800000000000000
+      internalID: -3132277210411050627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51555bd194d668740800000000000000
+      internalID: 5153926984370574613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee7925d6f433ec0800000000000000
+      internalID: -3588437147128435152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90484c3ef34e4b0800000000000000
+      internalID: -5412130604705379885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077236c8cb9788870800000000000000
+      internalID: 8685325732100122480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c0766ea309ec200800000000000000
+      internalID: 202257615926266901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4828b0434b83ac0800000000000000
+      internalID: -3875149343727909681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf6b6410c7181b0800000000000000
+      internalID: -5656103312077423155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa49bcca1dc0c00800000000000000
+      internalID: 868299368255761147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fff9b29d5a54150800000000000000
+      internalID: 5856269242623590222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b562d02a51d580800000000000000
+      internalID: -8804156699517274528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c97bd0ea39bfd20800000000000000
+      internalID: 3313404326624861311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796560b100209800800000000000000
+      internalID: 617028340576250225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef0f17593a253740800000000000000
+      internalID: 5131053776221704171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b113514204f070800000000000000
+      internalID: 8139132906155127986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475bb6ef7ff960ea0800000000000000
+      internalID: -5906857973775616652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_81
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0503a8a38e5edba10800000000000000
+      internalID: 1926949001161748560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_82
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6bca4b81359120800000000000000
+      internalID: 2419894849106569974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_83
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edc3838e045d8d0800000000000000
+      internalID: -2822278225357644288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d4bf6633ae3fb0800000000000000
+      internalID: -4666112709711571050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_85
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172598810f77f4f70800000000000000
+      internalID: 9173682839064498801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e83fdf5e6e9c80800000000000000
+      internalID: -8314086504033360918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc782c85fee662e0800000000000000
+      internalID: -2132754635127489339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1293c5d5743fb410800000000000000
+      internalID: 1494971282012475933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24e1703b4518350800000000000000
+      internalID: 6017183705038996203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca88ea1fbc9c1800800000000000000
+      internalID: 584514396255455939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da47994e6292ab0800000000000000
+      internalID: -5032448345340859097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e910857f2138b0800000000000000
+      internalID: -5174302315165129097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe4862d41d84c90800000000000000
+      internalID: -7185263076180693185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc518d47dfa3910800000000000000
+      internalID: 1818044077880758110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dc2a6ed588743f0800000000000000
+      internalID: -916614062263841529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5667a8349d0560800000000000000
+      internalID: 7281639143575542307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_97
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287222952ddff640800000000000000
+      internalID: 5116050855151433770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54318f3c4a7fe9860800000000000000
+      internalID: 7538735113299301189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e6e4814c701130800000000000000
+      internalID: 3535462328330282932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_100
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dac759e6f9a7a00800000000000000
+      internalID: 755091184841174317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_101
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889cb67661aaeda0800000000000000
+      internalID: -5914737699146917749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a617cc7d867623f0800000000000000
+      internalID: -925922323322169692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_103
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0809c9806ec082ff0800000000000000
+      internalID: -60784412843011968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26d5cdf28272c460800000000000000
+      internalID: 7260491456203576877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_105
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd34e1e7fcb0c40800000000000000
+      internalID: 5479701512206933962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e29921f92cb620800000000000000
+      internalID: 2791151984824214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074272da0ec6fe0d0800000000000000
+      internalID: -3391372282153196432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ce3f6ef2da6ea0800000000000000
+      internalID: -5878654373348851021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00db94771b9a1900800000000000000
+      internalID: 656007220778749962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c882c26e0132a0800000000000000
+      internalID: -6759605748373076184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_115
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658c27653043eac0800000000000000
+      internalID: -3827144660226374294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df477a37f66722070800000000000000
+      internalID: 8080150902509892861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_117
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9962d7ce011730800000000000000
+      internalID: 3967968998081535833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0267162ce30d9760800000000000000
+      internalID: 7466128070036382222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80bee8b43d81d9f0800000000000000
+      internalID: -445419630552502131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_120
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4478a7e71066b5780800000000000000
+      internalID: -8693242499105650876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_121
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96497b6fb8ff8e0b0800000000000000
+      internalID: -5699024351832599447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_122
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43027a6ee7a027970800000000000000
+      internalID: 8751068566086164532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_123
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903672fbf390f2b0800000000000000
+      internalID: -5552775630233915238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_124
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1113c3390376ed460800000000000000
+      internalID: 7268360306948845841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8dce1758bdbdd0800000000000000
+      internalID: -2468614336410710485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f6429235737fd0800000000000000
+      internalID: -2345402120866957942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a085466d19a18790800000000000000
+      internalID: -7529551158251781975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903c54e795629a70800000000000000
+      internalID: 8832233522272678041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bedfde360560120800000000000000
+      internalID: 2379677843236711218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75428c27a4b308000800000000000000
+      internalID: 36093987958301783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 577
+        width: 46
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c30e9f6314ddf0800000000000000
+      internalID: -156478716937780624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3734967f44e20c0800000000000000
+      internalID: -4598662340085058597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e5823c20962ee70800000000000000
+      internalID: 9142985654100581952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_134
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6da62d3f1acd00800000000000000
+      internalID: 993641015290981271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4df352e6976890800000000000000
+      internalID: -7464831958527423418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_136
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4f7875f06df780800000000000000
+      internalID: -8647649102076622311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085bf55c3783eae0800000000000000
+      internalID: -1521223555910772729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_138
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b1669956fe2180800000000000000
+      internalID: -9138095729252650091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_139
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b0da7ab64762c10800000000000000
+      internalID: 2028436687900445571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_140
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f228691d8ae320800000000000000
+      internalID: 2588036076138590494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_141
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4872d663bd934c0800000000000000
+      internalID: -4307170541797145391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_142
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051aa4edd7e99dc20800000000000000
+      internalID: 3231788471052575056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_143
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8252716f22b3230800000000000000
+      internalID: 3619525165867935923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_144
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6968c0c1ddc960800000000000000
+      internalID: 7623980370134396739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9277f3296bd1db6b0800000000000000
+      internalID: -5279030518233467095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506269342977be710800000000000000
+      internalID: 1723602752482190853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a3c6e77c5fb390800000000000000
+      internalID: -7800414359539963543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f91709c5398540800000000000000
+      internalID: 5010595197950226941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de0c740a8af3670800000000000000
+      internalID: 8520714426360327433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fdfde5a1f76bf00800000000000000
+      internalID: 1132232107567865708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_154
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6dabbb49bbe3d50800000000000000
+      internalID: 6719013941562496713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3657e4c0ce46f90800000000000000
+      internalID: -6961179586407865418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c2bd51bb4fb5390800000000000000
+      internalID: -7828394442890728307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e1f803c09ee200800000000000000
+      internalID: 211265399876084776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_158
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241791b232e5bf3b0800000000000000
+      internalID: -5477681016626122430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_159
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff00ab56f9a13690800000000000000
+      internalID: -7624125818597273601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_160
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b729408a64cf7b0800000000000000
+      internalID: -5189194983192495316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63e5c1c6473ebd0800000000000000
+      internalID: -2602108152008788275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d87514cbbbb1260800000000000000
+      internalID: 7069450457312628079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403834bdefc10f90800000000000000
+      internalID: -6989076526864519102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef3a22d8787a4b0800000000000000
+      internalID: -5429221785530532145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e31360039a41b90800000000000000
+      internalID: -7272001474569093557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_166
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1c1447963c4680800000000000000
+      internalID: -8769574351086543016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803acb88767752590800000000000000
+      internalID: -7699616701360594168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0662e2d8f2d53220800000000000000
+      internalID: 2465108337186989580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85171b0c12529e0800000000000000
+      internalID: -1646872977239615239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188418978bea6c9d0800000000000000
+      internalID: -2754322014754748287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29518fd970f65570800000000000000
+      internalID: 8455209756666190122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f92d3b17f9e83370800000000000000
+      internalID: 8302643160580696567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842fd7d88052a180800000000000000
+      internalID: -9105626947922221949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_174
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a889841049b78f80800000000000000
+      internalID: -8104305319556314971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f90164f572b050800000000000000
+      internalID: 5814839761349244570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2433ab543126980800000000000000
+      internalID: -8547247952598187280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_177
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e72c544f841160800000000000000
+      internalID: 6995373644979889611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_178
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30511697f3df14090800000000000000
+      internalID: -8051876209700563709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_179
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855441740f234950800000000000000
+      internalID: 6432036388941878659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1dc033bf3078620800000000000000
+      internalID: 2776192072725352926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533d5a3cde55b410800000000000000
+      internalID: 1492203151508190042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe9ad1339aad060800000000000000
+      internalID: 6979076609570107211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2600649959d4a2b0800000000000000
+      internalID: -5574091460013193686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1626e4d63ae3110800000000000000
+      internalID: 1242610237062668792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6782501a75f32340800000000000000
+      internalID: 4837980329334703978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acfe2956642ae730800000000000000
+      internalID: 4029072838637845665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_187
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2640ae58279464a0800000000000000
+      internalID: -6600984954176256470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e7236213e656a80800000000000000
+      internalID: -8474245966454424025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_189
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840159bd503ce9560800000000000000
+      internalID: 7322504474077237320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411ae1b2c209fca0800000000000000
+      internalID: -5982747594753175219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_191
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc4ff0eb0225d00800000000000000
+      internalID: 959865671266913308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7477076ed0d880800000000000000
+      internalID: -8588119955307463736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_193
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5441b97dab7c30800000000000000
+      internalID: 4358267802587783083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_194
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a9e028d087af50800000000000000
+      internalID: 6892619420467306677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_195
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf0d955161b98a0800000000000000
+      internalID: -6297415372990514006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_196
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2565a328536e1a0800000000000000
+      internalID: -6780673355518946605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_197
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23875713344fedd80800000000000000
+      internalID: -8223867300102178766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_198
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ff0677e47edbc0800000000000000
+      internalID: -3756436501713390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_199
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89e92d74e88cd80800000000000000
+      internalID: -8230171879892150099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d080cc283df280800000000000000
+      internalID: -9007981914811738766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5eed1acbbef5c0800000000000000
+      internalID: -4179696927393293221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a867c32bfeb090800000000000000
+      internalID: -8016694155584952648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771f3cc88588e0d0800000000000000
+      internalID: -3393315496634935434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b91a74fe061dfc0800000000000000
+      internalID: -3471887256910718138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d17fd72c2a15d0800000000000000
+      internalID: -3091109644472299180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_206
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd3818cd0def400800000000000000
+      internalID: 359954665720503314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_207
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c257aebca120a870800000000000000
+      internalID: 8691984306641785545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_208
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268bb86dc11b1f650800000000000000
+      internalID: 6264983294065752162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_209
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d60d5966d218d0800000000000000
+      internalID: -2877001463915686290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_210
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cdb5c42fbffc9d0800000000000000
+      internalID: -2751703829218337777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_211
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec838735915dc100800000000000000
+      internalID: 129849665586957537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_212
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa67577b9478c40800000000000000
+      internalID: 5514457321037016935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_213
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb4ce325bb6d81e0800000000000000
+      internalID: -2193979017723622410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_214
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a30507d1d82b060800000000000000
+      internalID: 6967786731073452619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_215
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd8b132188da900800000000000000
+      internalID: 697363129037282167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85450b07da20a40800000000000000
+      internalID: 5333015608266348720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_217
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82066b24eb405500800000000000000
+      internalID: 382889411679224462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_218
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ccbf10d6e277f60800000000000000
+      internalID: 8031939506158160986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb15de3f463d8c0800000000000000
+      internalID: -3975723047216628689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a947152579b14f30800000000000000
+      internalID: 4558128210660247969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_221
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933a4defc3b4c950800000000000000
+      internalID: 6468492670431540112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b108436392f1cc180800000000000000
+      internalID: -9093859285704343525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_223
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d350edae988a100800000000000000
+      internalID: 119497031965556008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_224
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf3327f77eb90270800000000000000
+      internalID: 8217308417570848696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_225
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22fbeb6d55ff1a0800000000000000
+      internalID: -6773600933730376962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_226
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89200f94b8242fbc0800000000000000
+      internalID: -3750862373637848424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_227
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464e331a449da8f10800000000000000
+      internalID: 2272867850747372644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_228
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98679558c04c2dc0800000000000000
+      internalID: -3662481167785432931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_229
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e872c215e1f0b0800000000000000
+      internalID: -5696520184912091717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_230
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8252b0c4d67ba0800000000000000
+      internalID: -6091447521881453925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef309ed635961ca0800000000000000
+      internalID: -6046481386803544087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_232
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf235a40fd4b57ce0800000000000000
+      internalID: -1408020438534769924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd6a3e4a1580da0800000000000000
+      internalID: -5978438736698483966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_234
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7f1d7aba1ef590800000000000000
+      internalID: -7638638529708327407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2cdcd2d317d99f0800000000000000
+      internalID: -460087079346519330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_236
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9693bf63fcb69f0800000000000000
+      internalID: -474057500707427906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b470dbd8efbe90800000000000000
+      internalID: -7007626464372411347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751106ca142599f0800000000000000
+      internalID: -462423689325898380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_239
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176a23865af21d00800000000000000
+      internalID: 942090521548580631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cf908c905243ec0800000000000000
+      internalID: -3588202279166411695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_241
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f92e5488b1a2900800000000000000
+      internalID: 660370567465181060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f6b5f81a8fe5960800000000000000
+      internalID: 7592779394571792228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87a00ac10d61cd80800000000000000
+      internalID: -8232178789405120630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_244
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb9ecd29c76a840800000000000000
+      internalID: 5235008587078156130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6bb1f827904b60800000000000000
+      internalID: 7728343162677849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6322cf14daa0d50800000000000000
+      internalID: 6704361494208984831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_247
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2a9dd48618ec60800000000000000
+      internalID: 7847547110602452551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f2dc833a5a8110800000000000000
+      internalID: 1263921822883313351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_249
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95568632a9b6c5d90800000000000000
+      internalID: -7107687802134305447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_250
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e64c959c36c7a60800000000000000
+      internalID: 7673117581578104476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_251
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed28598e4fbac10800000000000000
+      internalID: 2066014133857476345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50723be0a9491d090800000000000000
+      internalID: -8011458872722905339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_253
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2af1950bd9b000800000000000000
+      internalID: 52313687661883158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_254
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30262b0f2d9fd40800000000000000
+      internalID: 5618753941348156386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_255
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc40a9c681930c20800000000000000
+      internalID: 3171538570693332165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e83e64a3dfffad0800000000000000
+      internalID: -2666134027640795502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_257
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabf910e2e68cd20800000000000000
+      internalID: 3299007870923684598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_258
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a76e851e03a8470800000000000000
+      internalID: 8397578199602985527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_259
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd926c7ce1d1df490800000000000000
+      internalID: -7710974968950543905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_260
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643febb0e57457c0800000000000000
+      internalID: -4083509354032057242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb1b6ebad04e2c0800000000000000
+      internalID: -4403379503700525931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_262
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef209315f5ea8c890800000000000000
+      internalID: -7437503060194557186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_263
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec43fa9f361ab0f0800000000000000
+      internalID: -1100542696500278042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_264
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef290b9b8fd3ff840800000000000000
+      internalID: 5259991028268569342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090cd8b399e3a260800000000000000
+      internalID: 7107781457591666947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_266
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6122aeba9439a50800000000000000
+      internalID: 6526641287706318546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_267
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b201097993f32820800000000000000
+      internalID: 2892423226187645622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_268
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6857c8d87a0dfc0800000000000000
+      internalID: -3472091086313912629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_269
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71d6b228434de10800000000000000
+      internalID: 2221458249879459805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_270
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c40b4e34f78eba0800000000000000
+      internalID: -6059453369050706840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_271
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2559b430f7bb05560800000000000000
+      internalID: 7300541150158099794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_272
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1d0fb612c2c1d0800000000000000
+      internalID: -3331887371350369747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_273
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf2e873fcd6f7c0800000000000000
+      internalID: -4037797077627765636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_274
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef1486285694080800000000000000
+      internalID: -9202712752785588505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_275
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbc316d25861960800000000000000
+      internalID: 7572386253421461295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de29085eba6d8400800000000000000
+      internalID: 328035713621241558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_277
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fd60ba559eb820800000000000000
+      internalID: 2935948223831732948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_278
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0fe15e7b7bc620800000000000000
+      internalID: 2795463776184241494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_279
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a3f8641a76c9b0800000000000000
+      internalID: -5060222903225441657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_rpg-maker-mv-tile-based-video-game-sprite-role-playing-column-rpg_280
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c9ba097ce2bf20800000000000000
+      internalID: 3437069470252254383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

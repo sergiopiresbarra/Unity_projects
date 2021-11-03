@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &546782016118127202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 546782016118127132}
+  - component: {fileID: 546782016118127203}
+  m_Layer: 0
+  m_Name: ItemAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &546782016118127132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546782016118127202}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 76.02032, y: 88.85166, z: -199.95525}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &546782016118127203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546782016118127202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee21799e94032ef41ac3b3c9065ef5bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pfItemWorld: {fileID: 2038295658432210859, guid: 0571366ce1d252645999586f24bb3881, type: 3}
+  pizzaSprite: {fileID: -531353317027444917, guid: 84903f351b13de548acb6c143e4997a5, type: 3}
+  bananaSprite: {fileID: -5728686177044832811, guid: b1f24b3bc2e2f1d4b858657ad5c115a0, type: 3}
+  kiwiSprite: {fileID: 4138223980208024357, guid: 5100b75572e484e458e4340e2afe9454, type: 3}
+  appleSprite: {fileID: 7293598183456022363, guid: 1ddc9afd21fec77489b1248d18f31b68, type: 3}
+  ammoSprite: {fileID: 21300000, guid: cfe599772e2a21b4194fa7c9ec1afaa9, type: 3}
+  armorSprite: {fileID: 21300000, guid: a1d96d714e8eb71459d00f6c48bee004, type: 3}
+  grenadeSprite: {fileID: 21300000, guid: 38332853b7d949c429a8fb4d9b928603, type: 3}
+  blasterSprite: {fileID: 21300000, guid: 5b7ba0d9d2234364a96c9db530596d61, type: 3}
+  grenadeLauncherSprite: {fileID: 21300000, guid: 837bde0e349efa24fa4fd77808011006, type: 3}
+  knifeSprite: {fileID: 21300000, guid: b2c623fb2b729d14fb3f5e55bbfcb35a, type: 3}
+  gunSprite: {fileID: 21300000, guid: 3e652a597824bd44d91fd93f87e3857d, type: 3}
+  goiabaSprite: {fileID: 21300000, guid: 7c9aed842682b71439c3467c7df5c5e0, type: 3}
+  pizzaDescription: 'pizza: +5 life'
+  bananaDescription: 'banana: low gravity'
+  kiwiDescription: 'kiwi: x2 speed'
+  appleDescription: 'apple: -5 life'
+  ammoDescription: 'ammo: items needed for weapons'
+  armorDescription: 'armor: maybe you''ll die less using it'
+  grenadeDescription: 'grenade: explosion! , use in a launcher!'
+  blasterDescription: 'blaster: weapon that fired bolts of intense plasma or particle-based
+    energy'
+  grenadeLauncherDescription: 'grenade launcher: weapon that uses the explosion!'
+  knifeDescription: 'knife: I think you cut things with this'
+  gunDescription: 'gun: a weapon that shoots'
+  goiabaDescription: 'guava: rare item, they say you''ll go to heaven if you can
+    eat one!'
+  pizzaAnimator: Animation/Apple
+  bananaAnimator: Animation/banana0
+  kiwiAnimator: 
+  appleAnimator: 
+  ammoAnimator: 
+  armorAnimator: 
+  grenadeAnimator: 
+  blasterAnimator: 
+  grenadeLauncherAnimator: 
+  knifeAnimator: 
+  gunAnimator: 
